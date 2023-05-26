@@ -6,7 +6,6 @@ import Seo from '../components/seo'
 
 const SecondPage = () => (
 <Layout>
-  <SEO title="Online Chart Makers" keywords={[`online chart makers`, `charts`, `graphs`, `web-based applications`, `templates`, `customizations`, `cloud-based`]} />
   <h1>Online Chart Makers</h1>
   <p>Chart making has become much easier thanks to the Internet and online chart makers. These tools allow individuals and businesses to create professional-looking charts in just a few clicks without the need for specialized software or design skills. In this article, we will discuss what online chart makers are, their benefits, and provide a list of the best online chart makers available.</p>
   <h2>What are online chart makers?</h2>
