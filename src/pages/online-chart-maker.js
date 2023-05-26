@@ -8,6 +8,15 @@ const SecondPage = () => (
 <Layout>
   <h1>Online Chart Makers</h1>
   <p>Chart making has become much easier thanks to the Internet and online chart makers. These tools allow individuals and businesses to create professional-looking charts in just a few clicks without the need for specialized software or design skills. In this article, we will discuss what online chart makers are, their benefits, and provide a list of the best online chart makers available.</p>
+    <p>Further Readings:</p>
+    <ul>
+        <li><a href="https://sites.google.com/view/online-chart-makers">https://sites.google.com/view/online-chart-makers</a></li>
+        <li><a href="https://sebastian-brandt2.github.io/online-chart-makers">https://sebastian-brandt2.github.io/online-chart-makers</a></li>
+        <li><a href="https://online-chart-creators.vercel.app/online-chart-makers">https://online-chart-creators.vercel.app/online-chart-makers</a></li>
+        <li><a href="https://rococo-melba-e96624.netlify.app/posts/online-chart-maker">https://rococo-melba-e96624.netlify.app/posts/online-chart-maker</a></li>
+        <li><a href="https://chart-maker-gatsby.onrender.com/online-chart-maker/">https://chart-maker-gatsby.onrender.com/online-chart-maker/</a></li>
+        <li><a href="https://online-chart-maker.s3.us-east-005.backblazeb2.com/online-chart-maker.html">https://online-chart-maker.s3.us-east-005.backblazeb2.com/online-chart-maker.html</a></li>
+    </ul>
   <h2>What are online chart makers?</h2>
   <p>Online chart makers are web-based applications that allow users to create charts and graphs without downloading or installing software. They provide templates, graphs, and customizations for the user to tweak and create various charts that can be used for presentations, reports, and other documentations.</p>
   <p>They come in both paid and free versions, with some offering more features than others.</p>
